@@ -46,9 +46,10 @@ This project analyzes e-commerce performance using an interactive Power BI dashb
 
 ---
 
-## 📄 License
+#### 🔒 License
 
-This project is protected under copyright. Please do not copy, modify, or distribute without written permission.
+Copyright (c) 2025 Fnu Gitanjali. All Rights Reserved.  
+This project and its content (including text, images, and media) may not be copied, reused, or distributed without written permission.
 
 
 
